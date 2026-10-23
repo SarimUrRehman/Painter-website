@@ -1,0 +1,6 @@
+{
+  "name": "Florida Bay Painting LLC",
+  "description": "Professional house painting across Florida — interior painting, exterior painting, and cabinet painting. Call +1 (813) 719-5188 for a free quote.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
